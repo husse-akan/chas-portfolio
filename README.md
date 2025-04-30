@@ -5,7 +5,7 @@ React/NextJS Portfolio Site with Theme Switching
 
 ## Live
 
-[chas-portfolio.vercel.app](chas-portfolio.vercel.app)
+(https://chas-portfolio-ten.vercel.app/)
 
 
 ## Tech Stack
